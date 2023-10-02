@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390940619209",
+    "project_id": "newinsta-c8c16",
+    "storage_bucket": "newinsta-c8c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390940619209:android:ac45d9e475ba19c6457818",
+        "android_client_info": {
+          "package_name": "com.newinsta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf48ekc4HMjwnkWAtpzt7iwKBZWxqoUdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

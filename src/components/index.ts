@@ -1,0 +1,25 @@
+export {default as Header} from './Home/Header';
+export {default as styles} from './Home/style';
+export {default as Stories} from '../screens/stories/stories';
+export{ default as StoriesItem } from './stores/storiesItem';
+export{ default as userData} from '../data/user'
+export { default as storySty }from './stores/styles';
+export { default as PostItem } from './post/postItem';
+export {default as Post} from '../screens/Post/Post';
+export {default as postData} from '../data/post';
+export { default as HomeScreen} from '../screens/header/homescreen';
+export { default as Bottomtabnavigation} from '../navigation/bottomTabNavigation/bottomtabnavigation';
+export { default as Search} from '../screens/search/search';
+export { default as Newpost} from '../screens/newpost/newpost';
+export{ default as Video} from '../screens/video/video';
+export { default as User} from '../screens/userprofile/user';
+export { default as Formikpost} from '../screens/newpost/formikpost';
+export { default as createPostStyle} from '../screens/newpost/postStyle';
+export { default as Login} from '../screens/stackScreen/login';
+export { default as Sigin} from '../screens/stackScreen/sigin';
+export  { default as Postplus} from '../screens/Post/postplus';
+export { default as StackNavigator} from '../navigation/stackNavigater/stack';
+export { default as Input} from './inputs/Input';
+export { default as Button} from './buttons/Button';
+export { default as MessagesScreen} from '../screens/chat/MessagesScreen';
+export { default as Chat} from '../screens/chat/Chat';
